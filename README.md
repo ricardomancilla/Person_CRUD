@@ -1,4 +1,5 @@
-# Person_CRUD
+# Person CRUD
+## Instructions to run the solution
 
 First of all, the NuGet Packages need to be restored, it might take some minutes.
 
